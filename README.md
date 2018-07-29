@@ -6,8 +6,8 @@ The Breakerbots website is divided up into two faces. One "Public" face and one 
 ## Public Face
 The Public face is the landing page for [breakerbots.com](breakerbots.com). The public has multiple sections including: about, robots, events, sponsors and contact information. There is also a team blog and information about Central Coast Regional.
 
-![Image of Website](Breakersite-Public/Images/Public/Public.PNG)
-![Image of Website](Breakersite-Public/Images/Public/Public2.PNG)
+![Image of Website](/Images/Public/Public.PNG)
+![Image of Website](/Images/Public/Public2.PNG)
 
 ***
 
