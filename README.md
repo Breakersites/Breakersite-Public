@@ -1,10 +1,10 @@
 # Breakersite
-The Breakerbots website is divided up into two faces. One "Public" face and one "Private" face. The public face is strictly for advertising and growing our robotics team, while the private face is used to manage many aspects of the team.
+The Breakerbots website is divided up into two faces, a "Public" face and a "Private" face. The public face is targeted towards advertising and growing our robotics team, while the private face is used to manage many aspects of the team.
 
 ***
 
 ## Public Face
-The Public face is the landing page for [breakerbots.com](https://breakerbots.com). The public has multiple sections including: about, robots, events, sponsors and contact information. There is also a team blog and information about Central Coast Regional.
+The Public face is the landing page for [breakerbots.com](https://breakerbots.com). The public has multiple sections including: about, robots, events, sponsors and contact information. 
 
 ![Image of Website](/Images/Public/Public.PNG)
 ![Image of Website](/Images/Public/Public2.PNG)
@@ -12,7 +12,7 @@ The Public face is the landing page for [breakerbots.com](https://breakerbots.co
 ***
 
 ## Private Face
-The private face is a tool for members of 5104. It is focused on increasing productivity of memebers through a variety of systems. These Systems include Item, Task, Team and Event Management along with a Calendar and a place to store Manuals/Instructions. 
+The private face is a tool for members of team 5104. It is focused on increasing productivity of members through a variety of systems. These Systems include Item, Task, Team and Event Management along with a Calendar and a place to store Manuals/Instructions. 
 
 ![Image of Website](/Images/Private/Todo.PNG)
 ![Image of Website](/Images/Private/Teams.PNG)
@@ -23,4 +23,4 @@ The private face is a tool for members of 5104. It is focused on increasing prod
 
 ***
 
-*For a full disclaimer, this repository is not for code and just for explaining the Breakersite.*
+*Disclaimer: this repository is not for code, just for explaining the Breakersite.*
